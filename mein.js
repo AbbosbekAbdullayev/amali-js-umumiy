@@ -8,11 +8,14 @@
 
 //object
 
-let abbos = {
-    name:"samar",//string
-    age:19, //number
-    isMarried:false
+// let abbos = {
+//     name:"samar",
+//     age:19,
+//     isMarried:false
+// }
+// console.log(abbos)
 
-}
-
+let abbos = ["phone","ruchka","Abbos"];
+abbos[0];
+console.log(abbos);
 
