@@ -27,8 +27,8 @@ console.log(x/y);
 console.log(x*y);
 console.log(x%y);
 console.log(x**3);
-alert(1);
-confirm('sizning yoshingiz 18 dami')
+let sorovnoma = (confirm('sizning yoshingiz 18 dami'));
+console.log(sorovnoma)
 
 
 
