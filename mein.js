@@ -26,6 +26,9 @@ console.log(x-y);
 console.log(x/y);
 console.log(x*y);
 console.log(x%y);
-console.log(x**3)
+console.log(x**3);
+
+
+
 
 
