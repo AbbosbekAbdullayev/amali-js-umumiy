@@ -16,6 +16,6 @@
 // console.log(abbos)
 
 let abbos = ["phone","ruchka","Abbos"];
-abbos[0];
+abbos[0] = Desktop;
 console.log(abbos);
 
