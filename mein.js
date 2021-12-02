@@ -98,7 +98,7 @@ if(yosh>=18){
     alert("hush kelibsiz")
 }
 else if(yosh>=80){
-    
+    alert("uje kech qoldiz")
 }
 
 else{
