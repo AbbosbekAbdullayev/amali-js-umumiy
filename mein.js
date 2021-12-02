@@ -93,7 +93,7 @@
  
 // if else haqida ----
 
-let yosh = prompt("yoshingiz nechida")
+// let yosh = prompt("yoshingiz nechida")
 // if(yosh<18){
 //     alert("xali voxtli")
 // }
@@ -111,24 +111,16 @@ let yosh = prompt("yoshingiz nechida")
 
 
 
-switch (yosh){
-    case 18:
-    alert("sizning yoshingiz 18 da")
-    break 
-    case 50:
-        default:
-        alert("sizning yoshingiz 50 da")
-        break
+// switch (yosh){
+//     case 18:
+//     alert("sizning yoshingiz 18 da")
+//     break 
+//     case 50:
+//         default:
+//         alert("sizning yoshingiz 50 da")
+//         break
         
-}
+// }
 
 
-
-
-
-
-
-
-
-
-
+ 
