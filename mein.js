@@ -129,4 +129,9 @@
 // function lar 
 
 
+function mayfunction (){
+    console.log("mening ismim Abbos")
+}
 
+
+ mayfunction() // - functiani chaqirish
