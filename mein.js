@@ -44,6 +44,20 @@
 
 // second way  yan forni 2-yoli
 
+// let i = 0;
+// do {
+//     consle.log(i)
+//     i++
+// }while(i<10);
+
+
+
+// this way for 3-yo'li
+
+
+
+
+
 
 
 
