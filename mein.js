@@ -35,11 +35,15 @@
 
 // 3-dars   
 
+// first wey     for 1- yo'li
 
-for (let i =0; i<10; i++){
-    console.log(i)
+// for (let i =0; i<10; i++){
+//     console.log(i)
+// }  
 
-}
+
+// second way  yan forni 2-yoli
+
 
 
 
