@@ -123,6 +123,10 @@
 // }
 
 
- let sobir = prom("yoshingiz nechada")
- alert(sobir);
- let yoshi =
+
+
+
+// function lar 
+
+
+
