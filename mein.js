@@ -94,9 +94,13 @@
 // if else haqida ----
 
 let yosh = prompt("yoshingiz nechida")
-if(yosh>18){
+if(yosh>=18){
     alert("hush kelibsiz")
 }
+else if(yosh>=80){
+    
+}
+
 else{
     alert("xali voxtli bu sayitiga kirishga")
 }
