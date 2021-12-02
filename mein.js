@@ -18,19 +18,29 @@
 // let abbos = ["phone","ruchka","Abbos"];
 // abbos[0] = Desktop;
 // console.log(abbos);
-let y = 5;
-let x = 6;
+// let y = 5;
+// let x = 6;
 
-console.log(x+y);
-console.log(x-y);
-console.log(x/y);
-console.log(x*y);
-console.log(x%y);
-console.log(x**3);
+// console.log(x+y);
+// console.log(x-y);
+// console.log(x/y);
+// console.log(x*y);
+// console.log(x%y);
+// console.log(x**3);
 // let sorovnoma = (confirm('sizning yoshingiz 18 dami'));
 // console.log(sorovnoma);
-let prom = prompt("ismingiz nma");
-console.log(prom);
+// let prom = prompt("ismingiz nma");
+// console.log(prom);
+
+
+// 3-dars   
+
+
+for (let i =0; i<10; i++){
+    console.log(i)
+
+}
+
 
 
 
