@@ -42,7 +42,7 @@
 // }  
 
 
-// second way  yan forni 2-yoli
+// second way  yan forni 2-yoli lekin qod ishlmadi
 
 // let i = 0;
 // do {
@@ -52,7 +52,43 @@
 
 
 
-// this way for 3-yo'li
+// this way for 3-yo'li  lekin qod ishlamadi
+
+// let abbos = 0;
+// while(abbos<10){
+//     console.log(abbos)
+//     abbos++
+// }
+
+
+// misol
+ 
+// let abbosxon = []
+// let alov = [
+//     'isming nma' ,
+// 'sani yoshing nechada' ,
+// 'axvollaring qalay'
+// ]
+// for(let i=0; i<alov.length; i++) {
+//     abbosxon[i] = prompt(alov[i])
+// }
+// console.log(abbosxon)
+
+
+
+
+let ism = []
+let nam = [
+    'ismingiz nma',
+    'yoshingiz nechada',
+    'qalos',
+]
+for(let i =0; i < nam.leght; i++){
+    ism[i] = prompt(nam[i])
+}
+console.log(ism);
+
+
 
 
 
