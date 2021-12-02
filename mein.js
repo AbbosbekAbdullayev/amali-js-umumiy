@@ -128,10 +128,7 @@
 
 // function lar 
 
-
-function mayfunction (){
-    console.log("mening ismim Abbos")
+myFirstFunction(name=`abbos`)
+function myFirstFunction(nam) {
+    console.log(`Hi my nam is ${name}`)
 }
-
-
- mayfunction() // - functiani chaqirish
