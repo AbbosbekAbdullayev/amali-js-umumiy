@@ -77,16 +77,22 @@
 
 
 
-let ism = []
-let nam = [
-    'ismingiz nma',
-    'yoshingiz nechada',
-    'qalos',
-]
-for(let i =0; i < nam.leght; i++){
-    ism[i] = prompt(nam[i])
-}
-console.log(ism);
+// let ism = []
+// let nam = [
+//     'ismingiz nma',
+//     'yoshingiz nechada',
+//     'qalos',
+// ]
+// for(let i =0; i < nam.leght; i++){
+//     ism[i] = prompt(nam[i])
+// }
+// console.log(ism);
+
+
+
+ 
+// if else haqida ----
+
 
 
 
