@@ -94,14 +94,32 @@
 // if else haqida ----
 
 let yosh = prompt("yoshingiz nechida")
-if(yosh<18){
-    alert("xali voxtli")
-}
-else if(yosh>80){
-    alert("uje kech qoldiz")
-}
-else{
-    alert("xush kelibsiz")
+// if(yosh<18){
+//     alert("xali voxtli")
+// }
+// else if(yosh>80){
+//     alert("uje kech qoldiz")
+// }
+// else{
+//     alert("xush kelibsiz")
+// }
+
+
+
+// bu if else ni boshqa cha turi va bindi aniq narsani elon qila olamiz
+
+
+
+
+switch (yosh){
+    case 18:
+    alert("sizning yoshingiz 18 da")
+    break 
+    case 50:
+        default:
+        alert("sizning yoshingiz 50 da")
+        break
+        
 }
 
 
